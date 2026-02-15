@@ -1,43 +1,34 @@
-# 🛡️ Cybersecurity & Coding Playground by [ANONIM301]
-
-Selamat datang di repository tempat saya mengasah skill dalam pemrograman Bash & Python, serta membangun berbagai tools untuk cybersecurity & coding umum.
-
-📂 Struktur Folder:
-- `bash-cyber-tools`: Tools CLI berbasis bash untuk keamanan, monitoring, dan utilitas.
-- `python-cyber-tools`: Tools Python untuk scanning, hashing, automation, dll.
-- `projekt_python/`: Proyek-proyek latihan coding Python (non-cyber).
-- `projekt-bash/`: Proyek latihan Bash scripting.
-- `latihan-scripting/`: Catatan coding harian, debugging, dan eksperimen kode.
-
-## 🧠 My Goal
-
-Belajar cybersecurity dari dasar, fokus ke:
-- Menulis tools sendiri (tanpa copy-paste)
-- Memahami cara kerja scanning, logging, parsing
-- Membangun otomatisasi dari nol (terutama lewat Bash & Python)
-
----
-
-## 📱 Platform
-
-Semua proyek dikembangkan menggunakan:
-- 📲 Android
-- 🧪 [Termux](https://termux.dev)
-- 🐚 Bash shell
-- 🐍 PYTHON
-- 🛠️ CLI tools (nmap, awk, grep, sed)
-
----
-
-
-## 📄 Lisensi
-Distribusi tools ini menggunakan MIT License. Lihat file LICENSE untuk detail.
-
-
-## ⚠️ Disclaimer
-Tools ini dibuat untuk tujuan edukasi, pengujian keamanan yang sah, dan otomatisasi yang legal.  
-Penggunaan tools ini untuk aktivitas ilegal atau tanpa izin adalah tanggung jawab pengguna.  
-Pengembang tidak bertanggung jawab atas penyalahgunaan atau konsekuensi yang ditimbulkan.
-
-
----
+📦 Personal Coding & Quant Repository
+👨‍💻 About
+This repository contains my projects, experiments, and structured learning progress in:
+Python
+Bash
+Quantitative Analysis
+Automation & Tools Development
+It serves as a technical archive to document my growth in programming, quantitative thinking, and practical implementation.
+📂 Directory Structure
+📊 quant
+Quantitative experiments, strategy prototypes, backtesting scripts, and mathematical exploration.
+Focused on data-driven logic and systematic analysis.
+🛠 alat_siber_bash
+Cyber-related tools written in Bash.
+Focused on command-line automation and scripting utilities.
+🐍 belajar_python
+Python learning materials and exercises to strengthen core programming concepts.
+🧩 proyek_bash
+Bash-based automation projects and scripting experiments.
+🚀 proyek_python
+Python-based tools, logic-driven scripts, and small practical projects.
+🔐 alat_siber_python
+Cyber-related tools built using Python for automation and experimentation.
+✍️ latihan-penulisan
+Structured writing and documentation practice.
+🎯 Purpose
+Strengthen programming fundamentals
+Develop quantitative reasoning
+Build automation tools
+Experiment with strategy logic & data analysis
+Document consistent learning progress
+📌 Notes
+All projects represent ongoing development and continuous improvement.
+This repository reflects practical experimentation and systematic skill-building.
