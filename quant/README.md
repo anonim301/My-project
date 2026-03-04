@@ -9,6 +9,7 @@ Menerapkan konsep kuantitatif ke studi kasus nyata
 --------
 
 #🧠 Daftar Project
+
 • trading_journal.py --> jurnal trading otomatis
 
 --------
