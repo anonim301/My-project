@@ -13,6 +13,7 @@ Folder ini berisi project latihan kuantitatif yang saya kerjakan untuk melatih k
 ## 🧠 Daftar Project
 
 - **trading_journal.py** — jurnal trading otomatis
+- **trading_journal_v2.py** — penambahan fitur sharpe ratio & std deviation,equity curve,warning system,total growth equity
 
 ---
 
