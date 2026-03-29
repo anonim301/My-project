@@ -16,6 +16,7 @@ A collection of Python projects focused on problem solving, automation, and foun
 - "port_scanner.py" → Basic port scanning tool
 - "tebak_angka.py" → Number guessing game
 - "daftar_tugas.py" → Task management CLI
+- "auth_system.py" → Secure Authentication System (CLI)
 
 ---
 
