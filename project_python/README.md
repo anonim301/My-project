@@ -18,6 +18,7 @@ A collection of Python projects focused on problem solving, automation, and foun
 - "daftar_tugas.py" → Task management CLI
 - "auth_system.py" → Secure Authentication System (CLI)
 - "notes_app.py" → Python-based CLI Notes Management System with JSON data persistence
+- "password_manager.py" → CLI-based Password Manager
 
 ---
 
