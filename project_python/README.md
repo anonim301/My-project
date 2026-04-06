@@ -20,6 +20,7 @@ A collection of Python projects focused on problem solving, automation, and foun
 - "notes_app.py" → Python-based CLI Notes Management System with JSON data persistence
 - "password_manager.py" → CLI-based Password Manager
 - "logger.py" → CLI-based Data Logger Simulator
+- "cli_backup.py" → CLI-based backup & restore system
 
 ---
 
