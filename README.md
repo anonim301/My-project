@@ -1,56 +1,52 @@
-# 📦 Personal Coding & Quant Repository  
+# My Projects (Learning & Experiments)
 
-## 👨‍💻 About  
-
-This repository contains my projects, experiments, and structured learning progress in:
-
-- Python  
-- Bash  
-- Quantitative Analysis  
-- Automation & Tools Development  
-
-It serves as a technical archive to document my growth in programming, quantitative thinking, and practical implementation.
+This repository contains my personal projects, experiments, and learning scripts in Python, Bash, and Cybersecurity.  
+It reflects my growth from early-stage scripting to building real-world tools.
 
 ---
 
-## 📂 Directory Structure  
+## 🧠 Focus Areas
 
-### 📊 quant  
-Quantitative experiments, strategy prototypes, backtesting scripts, and mathematical exploration.  
-Focused on data-driven logic and systematic analysis.
-
-### 🛠 alat_siber_bash  
-Cyber-related tools written in Bash.  
-Focused on command-line automation and scripting utilities.
-
-### 🐍 belajar_python  
-Python learning materials and exercises to strengthen core programming concepts.
-
-### 🧩 proyek_bash  
-Bash-based automation projects and scripting experiments.
-
-### 🚀 proyek_python  
-Python-based tools, logic-driven scripts, and small practical projects.
-
-### 🔐 alat_siber_python  
-Cyber-related tools built using Python for automation and experimentation.
-
-### ✍️ latihan-penulisan  
-Structured writing and documentation practice.
+- 📈 Quantitative Trading Experiments  
+- 🤖 Automation & Scripting Tools  
+- 🛡️ Cybersecurity Basics  
+- 🐍 Python CLI & Utility Tools  
 
 ---
 
-## 🎯 Purpose  
+## 📂 Folder Overview
 
-- Strengthen programming fundamentals  
-- Develop quantitative reasoning  
-- Build automation tools  
-- Experiment with strategy logic & data analysis  
-- Document consistent learning progress  
+- **quant/** → Early quantitative trading experiments (journal, strategy testing)  
+- **project_python/** → Python-based projects: CLI apps, automation, notes manager, password manager, etc.  
+- **python-cyber-tools/** → Basic cybersecurity scripts & network utilities  
+- **project_bash/** → Bash scripting & automation experiments  
+- **belajar_python/** → Learning projects & exercises  
+- **latihan-scripting/** → Practice scripts & small experiments  
 
 ---
 
-## 📌 Notes  
+## ⚙️ Tech Stack
 
-All projects represent ongoing development and continuous improvement.  
-This repository reflects practical experimentation and systematic skill-building.
+- Python (scripting, CLI, automation)  
+- Bash (automation & system scripts)  
+- JSON (data handling)  
+- Basic networking & cybersecurity concepts  
+
+---
+
+## 🎯 Purpose
+
+- Serve as a **learning archive** to track my coding journey  
+- Experiment with **different tools & systems**  
+- Build skills for future professional projects  
+
+---
+
+## 📌 Notes
+
+- This repo is primarily for **experimentation and learning**, not polished production tools.  
+- For professional-ready quantitative trading tools, see **[quant-trading-system](link-ke-repo-quant)**.  
+
+---
+
+> “Consistency beats talent when talent doesn’t work hard.”
