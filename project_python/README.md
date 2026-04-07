@@ -21,6 +21,7 @@ A collection of Python projects focused on problem solving, automation, and foun
 - "password_manager.py" → CLI-based Password Manager
 - "logger.py" → CLI-based Data Logger Simulator
 - "cli_backup.py" → CLI-based backup & restore system
+- "clac_engine.py" → Advanced Calculator CLI
 
 ---
 
